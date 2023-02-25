@@ -3,7 +3,7 @@ LINQ - Ejemplos de Operadores
 
 
 
-	Introducción a LINQ
+- Introducción a LINQ
 
 LINQ (Language-Integrated Query) es una tecnología de .NET que permite consultar y manipular datos de diversas fuentes de forma declarativa y uniforme dentro del lenguaje de programación C# (y VB.NET). Con LINQ, puedes realizar consultas y operaciones de manipulación de datos en colecciones de objetos, bases de datos, servicios web y otros tipos de datos, utilizando una sintaxis clara y fácil de leer.
 
@@ -13,7 +13,8 @@ Con LINQ, puedes escribir consultas en el mismo lenguaje de programación que ut
 
 En resumen, LINQ es una herramienta poderosa que te permite consultar y manipular datos de forma eficiente y fácil de leer, lo que hace que sea una herramienta esencial para los desarrolladores de .NET.
 
-	Las ventajas de LINQ 
+- Las ventajas de LINQ
+
 LINQ  tiene varias ventajas, entre ellas:
 1.	Sintaxis más legible: LINQ utiliza una sintaxis declarativa que hace que el código sea más fácil de leer y entender.
 2.	Facilita la consulta de datos: LINQ simplifica el proceso de consulta de datos al proporcionar una forma uniforme de acceder a diferentes fuentes de datos, incluyendo bases de datos, colecciones y servicios web.
@@ -23,7 +24,8 @@ LINQ  tiene varias ventajas, entre ellas:
 6.	Fácilmente integrado con C#: Como parte del lenguaje C#, LINQ es fácilmente integrado con el resto del código de C#, lo que hace que sea más fácil de aprender y utilizar.
 
 
-Explorando los conceptos de LINQ 
+Explorando los conceptos de LINQ
+
 Para comprender mejor LINQ , es útil tener en cuenta los siguientes conceptos:
 
 1.	Consulta: Una consulta es una expresión que se utiliza para recuperar datos de una o varias fuentes de datos. Una consulta LINQ está compuesta por una o varias cláusulas, como from, where, orderby, groupby, select, join, etc.
@@ -40,7 +42,8 @@ Para comprender mejor LINQ , es útil tener en cuenta los siguientes conceptos:
 
 7.	Consultas integradas: LINQ es un lenguaje integrado, lo que significa que las consultas LINQ se integran directamente en el lenguaje de programación C# (y VB.NET). Esto significa que se pueden utilizar todas las características del lenguaje, como bucles, condicionales, operadores, etc., junto con las consultas LINQ.
 
-Datos compatibles con LINQ 
+- Datos compatibles con LINQ
+
 LINQ es compatible con una amplia variedad de fuentes de datos. Algunos de los tipos de datos compatibles con LINQ son:
 
 1.	Colecciones de objetos: LINQ puede utilizarse para consultar y manipular colecciones de objetos, como List, Array, Dictionary, y otros tipos de colecciones.
