@@ -3,7 +3,8 @@ LINQ - Ejemplos de Operadores
 
 
 
-	Introducción a LINQ 
+	Introducción a LINQ
+
 LINQ (Language-Integrated Query) es una tecnología de .NET que permite consultar y manipular datos de diversas fuentes de forma declarativa y uniforme dentro del lenguaje de programación C# (y VB.NET). Con LINQ, puedes realizar consultas y operaciones de manipulación de datos en colecciones de objetos, bases de datos, servicios web y otros tipos de datos, utilizando una sintaxis clara y fácil de leer.
 
 LINQ ofrece una amplia variedad de operadores y métodos que te permiten ordenar, filtrar, agrupar, unir y transformar datos de manera eficiente. Además, LINQ utiliza técnicas de optimización para minimizar el tiempo de ejecución de las consultas y mejorar el rendimiento de la aplicación.
